@@ -1,6 +1,6 @@
-# Select Widget
+# Reusable Select Widget
 
-This project is a POC of select widget with react and typescript.
+This project is a POC of select widget with react and typescript. Hosted at https://select-widget-poc.netlify.app/
 
 ## Available Scripts
 
